@@ -1,0 +1,29 @@
+{
+  "results": [
+    {
+      "name": "March 7th",
+      "gender": "female",
+      "path": "Preservation"
+    },
+    {
+      "name": "Dan Heng",
+      "gender": "male",
+      "path": "Hunt"
+    },
+    {
+      "name": "Himeko",
+      "gender": "female",
+      "path": "Erudition"
+    },
+    {
+      "name": "Welt",
+      "gender": "male",
+      "path": "Nihility"
+    },
+    {
+      "name": "Herta",
+      "gender": "female",
+      "path": "Erudition"
+    }
+  ]
+}
